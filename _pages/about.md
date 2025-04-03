@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student at the University of Toronto, studying [Computer Science](https://web.cs.toronto.edu) (with a **Focus in AI**) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in structural biology, medical biochemistry, deep learning, computer vision, statistical learning, and more.
+I'm a senior undergraduate student at the University of Toronto, studying [Computer Science](https://web.cs.toronto.edu) (with a *Focus in AI*) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in structural biology, medical biochemistry, deep learning, computer vision, statistical learning, and more.
 
 My current research interests are in 3D reconstruction, specifically in the context of the **cryo-EM problem**. My senior thesis aims to develop methodology to reconstruct membrane proteins embedded in their native lipid bilayer by using prior knowledge about their relative orientation. I'm co-supervised by [Dr. John L. Rubinstein](https://www.rubinsteinlab.org) at SickKids and [Dr. David J. Fleet](https://www.cs.toronto.edu/~fleet/) at Vector Institute.
 
