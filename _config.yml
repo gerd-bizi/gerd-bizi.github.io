@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "minimal_mistakes" # This is the theme used by academic pages
+title                    : "Gerd Bizi's Site"
 title_separator          : "-"
 name                     : &name "Gerd Bizi"
-description              : &description "personal description"
-url                      : https://gerd-bizi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Personal Site"
+url                      : "https://www.gerdbizi.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gerd-bizi/gerd-bizi.github.io"
 
@@ -29,11 +29,11 @@ author:
   location         : "Toronto, CA"
   employer         : "University of Toronto"
   uri              : # URL
-  email            : "gerd (dot) bizi (at) mail (dot) utoronto (dot) ca" 
+  email            : "gerd.bizi@mail.utoronto.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5311-7569"
   semantic         : # URL
