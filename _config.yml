@@ -353,3 +353,19 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# SEO Settings
+seo:
+  title: true
+  title_separator: "|"
+  description: true
+  author: true
+  twitter: true
+  open_graph: true
+  links:
+    canonical: true
+
+# Sitemap Settings
+sitemap:
+  changefreq: weekly
+  priority: 0.5
