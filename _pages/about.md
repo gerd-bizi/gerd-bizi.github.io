@@ -11,20 +11,22 @@ I'm a senior undergraduate student at the University of Toronto, studying [Compu
 
 My current research interests are in 3D reconstruction, specifically in the context of the **cryo-EM problem**. My senior thesis aims to develop methodology to reconstruct membrane proteins embedded in their native lipid bilayer by using prior knowledge about their relative orientation. I'm co-supervised by [Dr. John L. Rubinstein](https://www.rubinsteinlab.org) at SickKids and [Dr. David J. Fleet](https://www.cs.toronto.edu/~fleet/) at Vector Institute. I'm mentored by [Shayan Shekarforoush](https://shekshaa.github.io), a PhD student at Vector Institute, and [Ryan Karimi](https://scholar.google.com/citations?user=ekl4WVEAAAAJ&hl=en), an MD/PhD student at UofT.
 
-<figure>
-  <video width="50%" autoplay loop muted playsinline>
-    <source src="/files/movie21.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption>Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
-</figure>
-
 I've also been trained as a wet-lab scientist, and have experience in confocal fluorescence microscopy, tissue culture, and protein purification, done under the supervision of [Dr. Peter K. Kim](https://biochemistry.utoronto.ca/person/peter-k-kim/) at SickKids. In Dr. Kim's lab, I completed a summer research project and my junior thesis, where I looked at looked at translocation patterns of mitochondrial and peroxisomal proteins; and studied the fission machinery of mitochondria.
 
-<figure>
-  <img src="/images/hela.png" width="300" alt="Hela cell">
-  <figcaption>Figure 2: Hela cell imaged using confocal fluorescence microscopy.</figcaption>
-</figure>
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <figure style="flex: 1; margin: 0 10px;">
+    <video width="100%" autoplay loop muted playsinline>
+      <source src="/files/movie21.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
+  </figure>
+  
+  <figure style="flex: 1; margin: 0 10px;">
+    <img src="../images/kim_lab.png" width="100%" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)">
+    <figcaption>Figure 2: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
+  </figure>
+</div>
 
 I'm more broadly interested in computational imaging, bioinformatics, and computational neuroscience, and will be pursuing post-graduate studies in (more than one?) these fields.
 
