@@ -14,17 +14,17 @@ My current research interests are in 3D reconstruction, specifically in the cont
 I've also been trained as a wet-lab scientist, and have experience in confocal fluorescence microscopy, tissue culture, and protein purification, done under the supervision of [Dr. Peter K. Kim](https://biochemistry.utoronto.ca/person/peter-k-kim/) at SickKids. In Dr. Kim's lab, I completed a summer research project and my junior thesis, where I looked at looked at translocation patterns of mitochondrial and peroxisomal proteins; and studied the fission machinery of mitochondria.
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-  <figure style="flex: 1; margin: 0 10px;">
+  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column; height: 100%;">
     <video width="100%" autoplay loop muted playsinline>
       <source src="/files/movie21.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
+    <figcaption style="color: var(--text-color); margin-top: auto;">Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
   </figure>
   
-  <figure style="flex: 1; margin: 0 10px;">
+  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column; height: 100%;">
     <img src="../images/kim_lab.png" width="100%" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)">
-    <figcaption>Figure 2: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
+    <figcaption style="color: var(--text-color); margin-top: auto;">Figure 2: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
   </figure>
 </div>
 
