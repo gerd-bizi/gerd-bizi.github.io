@@ -16,7 +16,7 @@ I've also been trained as a wet-lab scientist, and have experience in confocal f
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column; height: 100%;">
     <video width="100%" autoplay loop muted playsinline>
-      <source src="/files/movie21.mp4" type="video/mp4">
+      <source src="/files/cryoMEM_VATPase.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption style="color: var(--text-color); margin-top: auto;">Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
@@ -28,7 +28,7 @@ I've also been trained as a wet-lab scientist, and have experience in confocal f
   </figure>
 </div>
 
-I'm more broadly interested in computational imaging, bioinformatics, and computational neuroscience, and will be pursuing post-graduate studies in (more than one?) these fields.
+I'm more broadly interested in computational imaging, bioinformatics, and computational neuroscience, and will be pursuing post-graduate studies in (more than one of?) these fields.
 
 My hobbies include playing basketball, trying coffee shops around Toronto, and playing the official format of the Pokémon videogame, [VGC](https://play.pokemonshowdown.com).
 
