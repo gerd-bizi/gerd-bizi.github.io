@@ -5,15 +5,19 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /curriculumvitae
+  - /curriculum-vitae
+  - /curriculum_vitae
+  - /experience
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Pennsylvania, 2025 (expected)
+* M.S. in Computer Science, University of Pennsylvania, 2023
+* B.S. in Computer Science, University of Pennsylvania, 2021
 
 Work experience
 ======
