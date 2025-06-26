@@ -11,11 +11,11 @@ main:
   - title: "Projects"
     url: /projects/  
 
-  - title: "Teaching"
-    url: /teaching/    
-        
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog_posts/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "CV"
     url: /cv/
