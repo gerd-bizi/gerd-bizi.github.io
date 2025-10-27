@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming graduate student in the Department of [Medical Biophysics](https://medbio.utoronto.ca) at the University of Toronto. I completed my undergraduate degree at U of T, where I studied [Computer Science](https://web.cs.toronto.edu) (with a *Focus in AI*) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in deep learning, computer vision, statistical learning, structural biology, bioinformatics, computational biology, and more.
+I'm an incoming graduate student in the Department of [Medical Biophysics](https://medbio.utoronto.ca) at the University of Toronto. I completed my undergraduate degree at U of T, where I studied [Computer Science](https://web.cs.toronto.edu) (with a [Focus in AI](https://artsci.calendar.utoronto.ca/program/asfoc1689b)) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in deep learning, computer vision, statistical learning, structural biology, bioinformatics, computational biology, and more.
 
 Currently, I'm working on two projects at the [Sunnybrook Research Institute](https://research.sunnybrook.ca/). The first is developing a multi-omic model for predicting breast cancer subtypes and the second is predicting recurrence of bladder cancer using WSIs. I'm grateful to be supervised by Dr. Alison Cheung at the [Biomarker Imaging Research Laboratory](https://research.sunnybrook.ca/facilities-and-research-groups/biomarker-imaging-research-laboratory/) and [Dr. Anne Martel](https://research.sunnybrook.ca/researchers/anne-martel/).
 
