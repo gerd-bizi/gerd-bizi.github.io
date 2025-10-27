@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /blog
   - /blog.html
-  - /blog_posts
   - /blog_posts.html
 ---
 {% include base_path %}
