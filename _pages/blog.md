@@ -1,11 +1,7 @@
 ---
-permalink: /blog_posts
+permalink: /blog_posts/
 title: "Blog Posts"
 author_profile: true
-redirect_from: 
-  - /blog
-  - /blog.html
-  - /blog_posts.html
 ---
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
