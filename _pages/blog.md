@@ -1,6 +1,5 @@
 ---
 permalink: /blog_posts/
-title: "Blog Posts"
 author_profile: true
 ---
 {% include base_path %}
@@ -11,5 +10,5 @@ author_profile: true
     `<h2 id="{{ year | slugify }}" class="archive__subtitle">`{{ year }}`</h2>`
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single-news.html %}
+  {% include archive-single.html %}
 {% endfor %}
