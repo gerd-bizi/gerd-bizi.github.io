@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming graduate student in the Department of [Medical Biophysics](https://medbio.utoronto.ca) at the University of Toronto. I completed my undergraduate degree at U of T, where I studied [Computer Science](https://web.cs.toronto.edu) (with a [Focus in AI](https://artsci.calendar.utoronto.ca/program/asfoc1689b)) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in deep learning, computer vision, statistical learning, structural biology, bioinformatics, computational biology, and more.
+I'm a Master's student in the Department of [Medical Biophysics](https://medbio.utoronto.ca) at the University of Toronto. I completed my undergraduate degree at U of T, where I studied [Computer Science](https://web.cs.toronto.edu) (with a [Focus in AI](https://artsci.calendar.utoronto.ca/program/asfoc1689b)) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in deep learning, computer vision, statistical learning, structural biology, bioinformatics, computational biology, and more.
 
+Currently, I'm working through my rotations in the program 
 Currently, I'm working on two projects at the [Sunnybrook Research Institute](https://research.sunnybrook.ca/). The first is developing a multi-omic model for predicting breast cancer subtypes and the second is predicting recurrence of bladder cancer using WSIs. I'm grateful to be supervised by Dr. Alison Cheung at the [Biomarker Imaging Research Laboratory](https://research.sunnybrook.ca/facilities-and-research-groups/biomarker-imaging-research-laboratory/) and [Dr. Anne Martel](https://research.sunnybrook.ca/researchers/anne-martel/).
 
 A large research interest of mine during my undergraduate degree was the **cryo-em problem**. My senior thesis aimed to develop methodology to reconstruct membrane proteins embedded in their native lipid bilayer by using prior knowledge about their relative orientation. I was co-supervised by [Dr. John L. Rubinstein](https://www.rubinsteinlab.org) at SickKids and [Dr. David J. Fleet](https://www.cs.toronto.edu/~fleet/) at Vector Institute.
