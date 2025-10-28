@@ -7,27 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master's student in the Department of [Medical Biophysics](https://medbio.utoronto.ca) at the University of Toronto. I completed my undergraduate degree at U of T, where I studied [Computer Science](https://web.cs.toronto.edu) (with a [Focus in AI](https://artsci.calendar.utoronto.ca/program/asfoc1689b)) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in deep learning, computer vision, statistical learning, structural biology, bioinformatics, computational biology, and more.
+I'm a Master's student in the Department of [Medical Biophysics](https://medbio.utoronto.ca) at the University of Toronto where I am currently completing rotations. I completed my undergraduate degree at U of T, where I studied [Computer Science](https://web.cs.toronto.edu) (with a [Focus in AI](https://artsci.calendar.utoronto.ca/program/asfoc1689b)) and [Biochemistry](https://biochemistry.utoronto.ca). I've taken advanced coursework in deep learning, computer vision, statistical learning, structural biology, bioinformatics, computational biology, and more.
 
-Currently, I'm working through my rotations in the program 
-Currently, I'm working on two projects at the [Sunnybrook Research Institute](https://research.sunnybrook.ca/). The first is developing a multi-omic model for predicting breast cancer subtypes and the second is predicting recurrence of bladder cancer using WSIs. I'm grateful to be supervised by Dr. Alison Cheung at the [Biomarker Imaging Research Laboratory](https://research.sunnybrook.ca/facilities-and-research-groups/biomarker-imaging-research-laboratory/) and [Dr. Anne Martel](https://research.sunnybrook.ca/researchers/anne-martel/).
+This past summer, I was an RA at the [Sunnybrook Research Institute](https://research.sunnybrook.ca/) and I worked on two projects. The first was developing a multi-omic model for predicting breast cancer subtypes and the second is predicting recurrence of bladder cancer using WSIs. I was grateful to be supervised by Dr. Martin Yaffe and Dr. Alison Cheung at the [Biomarker Imaging Research Laboratory](https://research.sunnybrook.ca/facilities-and-research-groups/biomarker-imaging-research-laboratory/) and [Dr. Anne Martel](https://research.sunnybrook.ca/researchers/anne-martel/).
 
 A large research interest of mine during my undergraduate degree was the **cryo-em problem**. My senior thesis aimed to develop methodology to reconstruct membrane proteins embedded in their native lipid bilayer by using prior knowledge about their relative orientation. I was co-supervised by [Dr. John L. Rubinstein](https://www.rubinsteinlab.org) at SickKids and [Dr. David J. Fleet](https://www.cs.toronto.edu/~fleet/) at Vector Institute.
 
 I've also been trained as a wet-lab scientist, and have experience in confocal fluorescence microscopy, tissue culture, and protein purification, done under the supervision of [Dr. Peter K. Kim](https://biochemistry.utoronto.ca/person/peter-k-kim/) at SickKids. In Dr. Kim's lab, I completed a summer research project and my junior thesis, where I looked at looked at translocation patterns of mitochondrial and peroxisomal proteins; and studied the fission machinery of mitochondria.
 
-<div style="display: flex; justify-content: space-between; margin: 20px 0;">
-  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column; height: 80%;">
-    <video width="100%" autoplay loop muted playsinline>
-      <source src="/files/cryoMEM_VATPase.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption style="color: var(--text-color); margin-top: auto;">Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
+<div style="display: flex; justify-content: space-between; margin: 20px 0; align-items: stretch;">
+  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
+    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+      <video width="100%" height="100%" autoplay loop muted playsinline style="object-fit: contain;">
+        <source src="/files/cryoMEM_VATPase.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <figcaption style="color: var(--text-color); margin-top: 10px;">Figure 1: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I'm developing.</figcaption>
   </figure>
   
-  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column; height: 100%;">
-    <img src="../images/kim_lab.png" width="100%" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)">
-    <figcaption style="color: var(--text-color); margin-top: auto;">Figure 2: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
+  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
+    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/kim_lab.png" width="100%" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)" style="object-fit: contain; height: 100%;">
+    </div>
+    <figcaption style="color: var(--text-color); margin-top: 10px;">Figure 2: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
   </figure>
 </div>
 
