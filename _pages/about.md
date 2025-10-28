@@ -15,32 +15,39 @@ A large research interest of mine during my undergraduate degree was the **cryo-
 
 I was trained as a wet-lab scientist with experience in confocal fluorescence microscopy, tissue culture, and protein purification under [Dr. Peter K. Kim](https://biochemistry.utoronto.ca/faculty/peter-kim) at SickKids, where I completed a summer project and junior thesis on mitochondrial and peroxisomal protein translocation and mitochondrial fission.
 
-<div style="display: flex; justify-content: space-between; margin: 20px 0; align-items: stretch;">
+<div style="display: flex; justify-content: space-between; margin: 20px 0; align-items: flex-start;">
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <img src="../images/bladder_risk.png" width="100%" alt="" style="object-fit: contain; height: 100%;">
     </div>
-    <figcaption style="color: var(--text-color); margin-top: 10px;">Figure 1: Resection of bladder cancer, with patches coloured according to risk of recurrence.</figcaption>
+    <figcaption style="color: var(--text-color); margin-top: 10px;">
+      Figure 1: Resection of bladder cancer, with patches coloured according to risk of recurrence.
+    </figcaption>
   </figure>
 
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-      <video width="100%" height="100%" autoplay loop muted playsinline style="object-fit: contain;">
+      <!-- <video width="100%" height="100%" autoplay loop muted playsinline style="object-fit: contain;">
         <source src="/files/cryoMEM_VATPase.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>
+      </video> -->
+      <img src="/files/cryoMEM_VATPase.gif" width="100%" alt="Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed." style="object-fit: contain; height: 100%;">
     </div>
-    <figcaption style="color: var(--text-color); margin-top: 10px;">Figure 2: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed.</figcaption>
+    <figcaption style="color: var(--text-color); margin-top: 10px;">
+      Figure 2: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed.
+    </figcaption>
   </figure>
-  
+
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <img src="../images/kim_lab.png" width="100%" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)" style="object-fit: contain; height: 100%;">
     </div>
-    <figcaption style="color: var(--text-color); margin-top: 10px;">Figure 3: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
+    <figcaption style="color: var(--text-color); margin-top: 10px;">
+      Figure 3: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.
+    </figcaption>
   </figure>
 </div>
 
 I'm more broadly interested in computational imaging, bioinformatics, and computational neuroscience, among other fields.
 
-My hobbies include playing [basketball](https://www.gerdbizi.com/basketball), trying coffee shops around Toronto, and playing the official format of the Pokémon videogame, [VGC](https://play.pokemonshowdown.com).
+My hobbies include reading, playing [basketball](https://www.gerdbizi.com/basketball), trying coffee shops around Toronto, and playing the official format of the Pokémon videogame, [VGC](https://play.pokemonshowdown.com).
