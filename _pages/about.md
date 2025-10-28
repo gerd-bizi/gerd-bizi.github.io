@@ -13,9 +13,16 @@ This past summer, I was an RA at the [Sunnybrook Research Institute](https://res
 
 A large research interest of mine during my undergraduate degree was the **cryo-em problem**. My senior thesis aimed to develop methodology to reconstruct membrane proteins embedded in their native lipid bilayer by using prior knowledge about their relative orientation. I was co-supervised by [Dr. John L. Rubinstein](https://www.rubinsteinlab.org) at SickKids and [Dr. David J. Fleet](https://www.cs.toronto.edu/~fleet/) at Vector Institute.
 
-I've also been trained as a wet-lab scientist, and have experience in confocal fluorescence microscopy, tissue culture, and protein purification, done under the supervision of [Dr. Peter K. Kim](https://biochemistry.utoronto.ca/person/peter-k-kim/) at SickKids. In Dr. Kim's lab, I completed a summer research project and my junior thesis, where I looked at looked at translocation patterns of mitochondrial and peroxisomal proteins; and studied the fission machinery of mitochondria.
+I've also been trained as a wet-lab scientist, and have experience in confocal fluorescence microscopy, tissue culture, and protein purification, done under the supervision of [Dr. Peter K. Kim](https://biochemistry.utoronto.ca/faculty/peter-kim) at SickKids. In Dr. Kim's lab, I completed a summer research project and my junior thesis, where I looked at looked at translocation patterns of mitochondrial and peroxisomal proteins; and studied the fission machinery of mitochondria.
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0; align-items: stretch;">
+  <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
+    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/bladder_risk.png" width="100%" alt="Resection of bladder cancer, with patches coloured according to risk of recurrence" style="object-fit: contain; height: 100%;">
+    </div>
+    <figcaption style="color: var(--text-color); margin-top: 10px;">Figure 2: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.</figcaption>
+  </figure>
+
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <video width="100%" height="100%" autoplay loop muted playsinline style="object-fit: contain;">
@@ -37,5 +44,3 @@ I've also been trained as a wet-lab scientist, and have experience in confocal f
 I'm more broadly interested in computational imaging, bioinformatics, and computational neuroscience, and will be pursuing post-graduate studies in (more than one of?) these fields.
 
 My hobbies include playing basketball, trying coffee shops around Toronto, and playing the official format of the Pokémon videogame, [VGC](https://play.pokemonshowdown.com).
-
-Please feel free to contact through any of the channels to the left.
