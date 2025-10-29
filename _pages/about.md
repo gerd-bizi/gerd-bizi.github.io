@@ -17,8 +17,8 @@ I was trained as a wet-lab scientist with experience in confocal fluorescence mi
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0; align-items: flex-start;">
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
-    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-      <img src="../images/bladder_risk.png" width="100%" alt="" style="object-fit: contain; height: 100%;">
+    <div style="height: 300px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/bladder_risk.png" alt="" style="max-height: 100%; max-width: 100%; object-fit: contain;">
     </div>
     <figcaption style="color: var(--text-color); margin-top: 10px;">
       Figure 1: Resection of bladder cancer, with patches coloured according to risk of recurrence.
@@ -26,12 +26,12 @@ I was trained as a wet-lab scientist with experience in confocal fluorescence mi
   </figure>
 
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
-    <div style="width: 100%; display: flex; align-items: center; justify-content: center;">
+    <div style="height: 300px; display: flex; align-items: center; justify-content: center;">
       <!-- <video width="100%" height="100%" autoplay loop muted playsinline style="object-fit: contain;">
         <source src="/files/cryoMEM_VATPase.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video> -->
-      <img src="/files/cryoMEM_VATPase.gif" width="100%" alt="Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed." style="display: block;">
+      <img src="/files/cryoMEM_VATPase.gif" alt="Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed." style="max-height: 100%; max-width: 100%; object-fit: contain;">
     </div>
     <figcaption style="color: var(--text-color); margin-top: 10px;">
       Figure 2: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed.
@@ -39,8 +39,8 @@ I was trained as a wet-lab scientist with experience in confocal fluorescence mi
   </figure>
 
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
-    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-      <img src="../images/kim_lab.png" width="100%" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)" style="object-fit: contain; height: 100%;">
+    <div style="height: 300px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/kim_lab.png" alt="HeLa cell stained for Phalloidin (red) and BORG3 (green)" style="max-height: 100%; max-width: 100%; object-fit: contain;">
     </div>
     <figcaption style="color: var(--text-color); margin-top: 10px;">
       Figure 3: HeLa cell stained for Phalloidin (red) and BORG3 (green) imaged using confocal fluorescence microscopy.
