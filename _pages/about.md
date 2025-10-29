@@ -26,12 +26,12 @@ I was trained as a wet-lab scientist with experience in confocal fluorescence mi
   </figure>
 
   <figure style="flex: 1; margin: 0 10px; display: flex; flex-direction: column;">
-    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+    <div style="width: 100%; display: flex; align-items: center; justify-content: center;">
       <!-- <video width="100%" height="100%" autoplay loop muted playsinline style="object-fit: contain;">
         <source src="/files/cryoMEM_VATPase.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video> -->
-      <img src="/files/cryoMEM_VATPase.gif" width="100%" alt="Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed." style="object-fit: contain; height: 100%;">
+      <img src="/files/cryoMEM_VATPase.gif" width="100%" alt="Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed." style="display: block;">
     </div>
     <figcaption style="color: var(--text-color); margin-top: 10px;">
       Figure 2: Reconstruction of (synthetic) V-ATPase found in a synaptic vesicle using the algorithm I developed.
