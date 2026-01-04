@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Gerd Bizi"
   pronouns         : "(he/him)"  
-  bio              : "ML for Biology"
+  bio              : "ML for Healthcare"
   location         : "Toronto, CA"
-  employer         : "University of Toronto"
+  employer         : "University of Toronto\nUHN\nVector Institute"
   uri              : # URL
   email            : "gerd.bizi@mail.utoronto.ca" 
 
